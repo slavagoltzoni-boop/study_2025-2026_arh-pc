@@ -1,10 +1,10 @@
 ---
 ## Author
 author:
-  name: Дмитрий Сергеевич Кулябов
+  name: Гольцов Вячеслав Сергеевич
   degrees: DSc
   orcid: 0000-0002-0877-7063
-  email: kulyabov-ds@rudn.ru
+  email: slavagoltzoni@gmail.com
   affiliation:
     - name: Российский университет дружбы народов
       country: Российская Федерация
